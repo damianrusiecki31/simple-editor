@@ -1,6 +1,6 @@
 {
-  "name": "WTF: PWA",
-  "short_name": "WTF: PWA",
+  "name": "Simple Editor",
+  "short_name": "SE",
   "theme_color": "#000000",
   "background_color": "#000000",
   "display": "standalone",
