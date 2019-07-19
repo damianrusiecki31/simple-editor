@@ -1,4 +1,4 @@
-![simple_editor_screenshot](/assets/img/cover.png)
+![simple_editor_screenshot](/src/assets/img/cover.png)
 
 # Simple Editor
 
